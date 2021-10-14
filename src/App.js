@@ -19,7 +19,7 @@ class App extends Component {
  setProgress=(p)=>{
     this.setState({progress:p});
   }
-   api_key = "2d0e20ac4af14547be292ba02d79d494"
+   api_key = //enter your own api key
   render() {
    
     return (
